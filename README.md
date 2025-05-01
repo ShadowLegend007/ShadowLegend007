@@ -219,18 +219,24 @@
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ALTERNATIVE MUSIC PLAYER: LAST.FM RECENT TRACKS -->
+<!-- IMPROVED MUSIC VISUALIZATION THAT DOESN'T REQUIRE SPOTIFY -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/j7WtU5TIdNpfNeAdj1/giphy.gif" width="30" alt="Music">
-  Recently Played Tracks
+  Music & Coding Vibes
 </h2>
 
 <div align="center">
-  <p>
-    <a href="https://github.com/kittinan/spotify-github-profile">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ohu2aaks4hpvockltygfcgwrq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="spotify-github-profile">
-    </a>
-  </p>
+  <img src="https://media3.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="400" height="200" alt="Music Visualization" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);" />
+</div>
+
+<div align="center">
+  <p>🎧 When I code, I listen to: Lo-Fi, Electronic, Classical</p>
+  <a href="https://open.spotify.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music" />
+  </a>
 </div>
 
 <!-- THANK YOU MESSAGE WITH ANIMATION -->
