@@ -8,11 +8,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2986CC&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+Subhodeep+Mondal;Welcome+to+My+Coding+Universe;C+Programming+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
 </div>
 
-<!-- ANIMATED WAVE GIF -->
+<!-- ENHANCED WELCOME MESSAGE WITH ANIMATION -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-  <span style="font-size: 24px; font-weight: bold;">Welcome to my GitHub profile!</span>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+      </td>
+      <td>
+        <div align="center">
+          <h3 style="font-size: 32px; color: #58A6FF; text-shadow: 2px 2px 4px #000000;">
+             Welcome to my GitHub Profile! 
+          </h3>
+          <p style="font-size: 16px; font-style: italic; color: #58A6FF;">
+            Where passion meets code and innovation never sleeps
+          </p>
+        </div>
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- CODING GIF WITH BORDER AND SHADOW -->
@@ -139,12 +156,16 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShadowLegend007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowLegend007&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadowLegend007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<!-- FIXED GITHUB STREAK -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ShadowLegend007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowLegend007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowLegend007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <!-- GITHUB ACTIVITY GRAPH -->
@@ -162,10 +183,14 @@
   </a>
 </div>
 
-<!-- ANIMATED CONTRIBUTION SNAKE -->
+<!-- FIXED ANIMATED CONTRIBUTION SNAKE -->
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
-  <img src="https://raw.githubusercontent.com/ShadowLegend007/ShadowLegend007/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <!-- DIVIDER -->
@@ -194,16 +219,18 @@
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- SPOTIFY NOW PLAYING -->
+<!-- ALTERNATIVE MUSIC PLAYER: LAST.FM RECENT TRACKS -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30" alt="Music">
-  Spotify Now Playing
+  <img src="https://media.giphy.com/media/j7WtU5TIdNpfNeAdj1/giphy.gif" width="30" alt="Music">
+  Recently Played Tracks
 </h2>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/your-spotify-id">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
-  </a>
+  <p>
+    <a href="https://github.com/kittinan/spotify-github-profile">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ohu2aaks4hpvockltygfcgwrq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="spotify-github-profile">
+    </a>
+  </p>
 </div>
 
 <!-- THANK YOU MESSAGE WITH ANIMATION -->
