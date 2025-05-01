@@ -1,0 +1,222 @@
+<!-- ANIMATED BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Subhodeep%20Mondal&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=white" />
+</div>
+
+<!-- ANIMATED TYPING HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2986CC&center=true&vCenter=true&width=600&height=100&lines=Hello+World%2C+I'm+Subhodeep+Mondal;Welcome+to+My+Coding+Universe;C+Programming+Enthusiast;Problem+Solver;Tech+Explorer" alt="Typing SVG" />
+</div>
+
+<!-- ANIMATED WAVE GIF -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+  <span style="font-size: 24px; font-weight: bold;">Welcome to my GitHub profile!</span>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+</div>
+
+<!-- CODING GIF WITH BORDER AND SHADOW -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="220" alt="Coding" style="border-radius: 10px; box-shadow: 0 10px 30px -15px rgba(0, 0, 0, 0.7);" />
+</div>
+
+<!-- ABOUT ME SECTION WITH ANIMATION -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35px" height="35px" alt="About Me">
+    About Me
+  </h2>
+  
+  <table style="border: none;">
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7ii/giphy.gif" width="200" height="200" alt="Spinning Code" />
+      </td>
+      <td>
+        <p>
+          I'm a passionate programmer with a focus on <b>C Programming</b> and creating useful applications.
+          <br />
+          🔭 I'm currently working on improving my programming skills
+          <br />
+          🌱 I'm currently learning advanced C and exploring other languages
+          <br />
+          👯 I'm looking to collaborate on innovative projects
+          <br />
+          ⚡ Fun fact: I love solving complex problems in simple ways!
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- SOCIALS AND CONTACTS WITH HOVER EFFECTS -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" alt="Connect">
+  Connect With Me
+</h2>
+
+<div align="center">
+  <a href="https://github.com/ShadowLegend007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- LANGUAGES AND TOOLS WITH ANIMATIONS -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="Tools">
+  Languages and Tools
+</h2>
+
+<div align="center" style="margin: 10px;">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+</div>
+
+<!-- ANIMATED TOOLS ICONS -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</div>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- FEATURED PROJECTS WITH ANIMATIONS -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="Projects">
+  Featured Projects
+</h2>
+
+<div align="center">
+  <a href="https://github.com/ShadowLegend007/C-Programming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowLegend007&repo=C-Programming&theme=tokyonight&hide_border=true" alt="C Programming"/>
+  </a>
+  <a href="https://github.com/ShadowLegend007/Simple-Tickting-System-in-C">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowLegend007&repo=Simple-Tickting-System-in-C&theme=tokyonight&hide_border=true" alt="Ticketing System"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/ShadowLegend007/Scientific-Calculator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowLegend007&repo=Scientific-Calculator&theme=tokyonight&hide_border=true" alt="Scientific Calculator"/>
+  </a>
+  <a href="https://github.com/ShadowLegend007/RKMVCC-Code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShadowLegend007&repo=RKMVCC-Code&theme=tokyonight&hide_border=true" alt="RKMVCC Code"/>
+  </a>
+</div>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GITHUB STATS WITH ANIMATIONS -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Stats">
+  My GitHub Stats
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadowLegend007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowLegend007&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowLegend007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</div>
+
+<!-- GITHUB ACTIVITY GRAPH -->
+<div align="center">
+  <a href="https://github.com/ShadowLegend007">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShadowLegend007&theme=tokyonight" alt="GitHub Activity Graph" />
+  </a>
+</div>
+
+<!-- PROFILE VIEWS AND FOLLOWERS WITH ANIMATION -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShadowLegend007&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://github.com/ShadowLegend007?tab=followers">
+    <img src="https://img.shields.io/github/followers/ShadowLegend007?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</div>
+
+<!-- ANIMATED CONTRIBUTION SNAKE -->
+<div align="center">
+  <h3>🐍 My Contributions 🐍</h3>
+  <img src="https://raw.githubusercontent.com/ShadowLegend007/ShadowLegend007/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- RANDOM QUOTE WITH ANIMATION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30" alt="Quote">
+  Random Dev Quote
+</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</div>
+
+<!-- TROPHIES WITH ANIMATION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30" alt="Trophies">
+  GitHub Trophies
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShadowLegend007&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- SPOTIFY NOW PLAYING -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30" alt="Music">
+  Spotify Now Playing
+</h2>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/your-spotify-id">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</div>
+
+<!-- THANK YOU MESSAGE WITH ANIMATION -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="30" alt="Thanks">
+    Thanks for visiting my profile!
+  </h2>
+  <p>If you liked my work, please consider starring the repositories you found interesting!</p>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" alt="GitHub Logo" />
+</div>
+
+<!-- ANIMATED FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
+</div> 
