@@ -119,7 +119,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/b adge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   
   <h3>🌐 Web Development</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -139,7 +139,7 @@
   
   <h3>⚙️ Tools</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
 </div>
 
@@ -336,21 +336,15 @@
 </h2>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0 ">
-    <tr>
-      <td>
-        <img src="https://i.imgur.com/HzBOv9i.gif" width="400" height="220" alt="Music Visualization" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://i.imgur.com/HzBOv9i.gif" width="400" height="220" alt="Music Visualization" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);" />
   
-  <div style="background: rgba(0, 0, 0, 0.1); padding: 15px; border-radius: 10px; margin-top: 10px; font-family: 'Courier New', monospace;">
+  <div style="background: rgba(0, 0, 0, 0.1); padding: 15px; border-radius: 10px; margin-top: 10px; font-family: 'Courier New', monospace; max-width: 500px; margin-left: auto; margin-right: auto;">
     <p style="font-size: 18px; font-weight: bold;">🎧 <span style="color: #9c27b0;">When I code, I tune into:</span> 🎧</p>
-    <div style="display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
-      <div style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 10px 15px; border-radius: 20px; color: white;">Lo-Fi Beats</div>
-      <div style="background: linear-gradient(135deg, #834d9b, #d04ed6); padding: 10px 15px; border-radius: 20px; color: white;">Electronic</div>
-      <div style="background: linear-gradient(135deg, #4b6cb7, #182848); padding: 10px 15px; border-radius: 20px; color: white;">Classical</div>
-    </div>
+    <ul style="list-style: none; padding: 0; display: flex; justify-content: center; gap: 15px; margin-top: 10px;">
+      <li style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 10px 15px; border-radius: 20px; color: white;">Lo-Fi Beats</li>
+      <li style="background: linear-gradient(135deg, #834d9b, #d04ed6); padding: 10px 15px; border-radius: 20px; color: white;">Electronic</li>
+      <li style="background: linear-gradient(135deg, #4b6cb7, #182848); padding: 10px 15px; border-radius: 20px; color: white;">Classical</li>
+    </ul>
   </div>
   
   <div style="margin-top: 15px;">
