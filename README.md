@@ -47,7 +47,7 @@
   <table style="border: none;">
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp7ii/giphy.gif" width="200" height="200" alt="Spinning Code" />
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" height="200" alt="Coding Developer" />
       </td>
       <td>
         <p>
@@ -226,7 +226,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/JqDeI2yjpSRgdh35oe/giphy.gif" width="400" height="200" alt="Music Visualization" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);" />
+  <img src="https://i.pinimg.com/originals/ea/80/f7/ea80f776c6e2f77a3ea45c1254644415.gif" width="400" height="220" alt="Music Visualization" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);" />
 </div>
 
 <div align="center">
