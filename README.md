@@ -149,6 +149,23 @@
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- PROJECTS SECTION -->
+<h2 align="center">
+  🚀 My Projects
+</h2>
+
+- **[Portfolio Website](https://shadowlegend007.github.io/Portfolio/)**  
+  *HTML | CSS | JavaScript*
+
+- **[Scientific Calculator](https://shadowlegend007.github.io/Scientific-Calculator/)**  
+  *HTML | CSS | JavaScript*
+
+- **[Simple Ticketing System](https://github.com/ShadowLegend007/Simple-Tickting-System-in-C)**  
+  *C*
+
+- **[Sales Forecasting](https://github.com/ShadowLegend007/Sales-Forecasting)**  
+  *Python | AI & ML*
+
 <!-- GITHUB STATS WITH ANIMATIONS -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Stats">
@@ -252,4 +269,81 @@
 <!-- ANIMATED FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" />
-</div> 
+</div>
+
+<!-- CONTACT ME SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" alt="Connect">
+  Contact Me
+</h2>
+
+<div align="center">
+  <p>
+    <strong>📞 Phone:</strong> <a href="tel:+917439892210">+91 7439892210</a>
+  </p>
+  <p>
+    <strong>📧 Email:</strong> <a href="mailto:mondalsubhodeep49@gmail.com">mondalsubhodeep49@gmail.com</a>
+  </p>
+  <p>
+    <strong>🌐 Socials:</strong>
+    <a href="https://www.linkedin.com/in/subhodeep-mondal-a3a2762b5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://github.com/ShadowLegend007" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://www.instagram.com/shadowlegend847/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://www.hackerrank.com/profile/mondalsubhodeep1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  </p>
+</div>
+
+<!-- ABOUT ME SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35px" height="35px" alt="About Me">
+  About Me
+</h2>
+
+<div align="center">
+  <p>
+    Passionate UI/UX designer focused on creating user-centered digital experiences. I combine creative design thinking with technical skills to build intuitive and visually appealing interfaces.
+  </p>
+  <p>
+    My approach involves understanding user needs, creating wireframes and prototypes, and iterating based on feedback to deliver exceptional user experiences.
+  </p>
+</div>
+
+<!-- SKILLS SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" alt="Tools">
+  My Skills
+</h2>
+
+<div align="center">
+  <h3>Frontend</h3>
+  <p>HTML, CSS, JavaScript, React.js, Bootstrap</p>
+  
+  <h3>Backend</h3>
+  <p>MongoDB, MySQL, Python, Node.js</p>
+  
+  <h3>Data Science</h3>
+  <p>NumPy, Pandas, Matplotlib, Scikit-Learn</p>
+  
+  <h3>Programming Languages</h3>
+  <p>C, C++, Java, Python, LaTeX</p>
+</div>
+
+<!-- EDUCATION SECTION -->
+<h2 align="center">
+  🎓 My Education
+</h2>
+
+- **2023 - 2027**: RAMAKRISHNA MISSION VIVEKANANDA CENTENARY COLLEGE  
+  *B.Sc. Computer Science*  
+  **CGPA**: 8.69 (Ongoing)
+
+- **2021 - 2023**: GSMS TAKI HOUSE (FOR BOYS)  
+  *Higher Secondary*
+
+<!-- EXPERIENCE SECTION -->
+<h2 align="center">
+  💼 My Experience
+</h2>
+
+- **JAN 2025**: Finalist (4th Position) at DeepThink Hackathon by RKMVERI  
+  *Sales Forecasting*: Developed an AI model using Python libraries to forecast sales.
